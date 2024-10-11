@@ -1,0 +1,4 @@
+name,description,startDate,endDate,budget,clientId
+Project A,This is project A,2024-01-01,2024-12-31,10000,clientId123
+Project B,This is project B,2024-02-15,2024-11-30,15000,clientId456
+Project C,This is project C,2024-03-01,2024-10-01,20000,clientId789
